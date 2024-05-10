@@ -1,14 +1,14 @@
 # ethereum-wallet
-[![PHP](https://github.com/web3p/ethereum-wallet/actions/workflows/php.yml/badge.svg)](https://github.com/web3p/ethereum-wallet/actions/workflows/php.yml)
-[![codecov](https://codecov.io/gh/web3p/ethereum-wallet/branch/master/graph/badge.svg)](https://codecov.io/gh/web3p/ethereum-wallet)
-[![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/web3p/ethereum-wallet/blob/master/LICENSE)
+[![PHP](https://github.com/tonystark199x202x/ethereum-wallet/actions/workflows/php.yml/badge.svg)](https://github.com/tonystark199x202x/ethereum-wallet/actions/workflows/php.yml)
+[![codecov](https://codecov.io/gh/tonystark199x202x/ethereum-wallet/branch/master/graph/badge.svg)](https://codecov.io/gh/tonystark199x202x/ethereum-wallet)
+[![Licensed under the MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/tonystark199x202x/ethereum-wallet/blob/master/LICENSE)
 
 Ethereum wallet.
 
 # Install
 
 ```
-composer require web3p/ethereum-wallet
+composer require tonystark/ethereum-wallet
 ```
 
 # Usage

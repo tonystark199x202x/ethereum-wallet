@@ -1,12 +1,12 @@
 {
-    "name": "web3p/ethereum-wallet",
+    "name": "tonystark/ethereum-wallet",
     "description": "Ethereum wallet library in PHP.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "sc0Vu",
-            "email": "alk03073135@gmail.com"
+            "name": "Tony Stark",
+            "email": "tonystark199x202x@gmail.com"
         }
     ],
     "require-dev": {
@@ -25,6 +25,6 @@
     "require": {
     	"PHP": "^7.1 | ^8.0",
     	"web3p/ethereum-util": "^0.1",
-        "bitwasp/bitcoin": "^1.0"
+        "protonlabs/bitcoin": "^1.0"
     }
 }
